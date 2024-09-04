@@ -1,4 +1,4 @@
-package Nilai;
+package nilai;
 public class Nilai {
     String nim, nama;
     double absen, tugas, uts, uas, akhir;
